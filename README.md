@@ -1,0 +1,2 @@
+# EmeraldMC.github.io
+Fun
