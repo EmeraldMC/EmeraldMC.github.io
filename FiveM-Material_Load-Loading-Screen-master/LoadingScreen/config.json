@@ -1,0 +1,42 @@
+[
+	{
+		"useBackgroundColour" : "False",
+		"backgroundColour" : "20,20,20",
+		"useBackgroundImage" : "true",
+		"backgroundImagePath" : "images/backgroundImg7.jpg",
+		"useTextColour" : "false",
+		"textColour" : "0,0,0",
+		"useBoldText" : "true",
+		"serverTitle" : "Official Life RP",
+		"playAudioInBackground" : "true",
+		"audioPath" : "audio/HowIRoll.ogg",
+		"audioVolume" : "0.5"
+	},
+	{
+		"rule1" : "Do not RDM or VDM",
+		"rule2" : "A microphone is a requirement",
+		"rule3" : "Always play like its real life.",
+		"rule4" : "Listen to higher ups",
+		"rule5" : "No racism",
+		"rule6" : "Do not harass others",
+		"rule7" : "Have Fun!!"
+	},
+	{
+		"servers1" : "Website:",
+		"servers2" : "Teamspeak: ",
+		"servers3" : "Discord: https://discord.gg/7cW238k",
+		"servers4" : "",
+		"servers5" : "",
+		"servers6" : "",
+		"servers7" : ""
+	},
+	{
+		"content1" : "Character Customization",
+		"content2" : "Menu Based",
+		"content3" : "A Lot of Scripts!",
+		"content4" : "Hopefully Your Best Experience Ever!",
+		"content5" : "Banks & ATMs",
+		"content6" : "Custom Vehicle Models",
+		"content7" : "Cellphone Messaging & Calling"
+	}
+]
